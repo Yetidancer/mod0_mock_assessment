@@ -1,7 +1,7 @@
 **Object:** Office Chair
 
 *Attributes:*
-legs: \['rolly leg 1', 'rolly leg 2', 'rolly leg 3', 'rolly leg 4', 'rolly leg 5'\]
+legs: \['rolly leg 1', 'rolly leg 2', 'rolly leg 3', 'rolly leg 4', 'rolly leg 5'\]<br>
 weight: 5
 back: 'adjustable'
 occupied: true
