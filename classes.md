@@ -1,14 +1,14 @@
-***Class***: Chair
+***Class***: Chair<br>
 
-**Attributes**:
--legs (array)
--occupied (boolean)
--back (string)
--cushions (array)
--weight (integer)
+**Attributes**:<br>
+-legs (array)<br>
+-occupied (boolean)<br>
+-back (string)<br>
+-cushions (array)<br>
+-weight (integer)<br>
 
-*Methods*
--lean (modifies the back attribute)
--legBreak (subtract a leg item from the legs array)
--compress (modifies the cushions attribute)
--clean (changes the cushions attribute)
+*Methods*<br>
+-lean (modifies the back attribute)<br>
+-legBreak (subtract a leg item from the legs array)<br>
+-compress (modifies the cushions attribute)<br>
+-clean (changes the cushions attribute)<br>
